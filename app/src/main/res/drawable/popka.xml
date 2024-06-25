@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/popa1" android:duration="100"/>
+    <item android:drawable="@drawable/popa2" android:duration="100"/>
+    <item android:drawable="@drawable/popa3" android:duration="100"/>
+    <item android:drawable="@drawable/popa4" android:duration="100"/>
+    <item android:drawable="@drawable/popa5" android:duration="100"/>
+    <item android:drawable="@drawable/popa6" android:duration="100"/>
+    <item android:drawable="@drawable/popa7" android:duration="100"/>
+    <item android:drawable="@drawable/popa8" android:duration="100"/>
+    <item android:drawable="@drawable/popa9" android:duration="100"/>
+    <item android:drawable="@drawable/popa10" android:duration="100"/>
+    <item android:drawable="@drawable/popa11" android:duration="100"/>
+    <item android:drawable="@drawable/popa12" android:duration="100"/>
+    <item android:drawable="@drawable/popa13" android:duration="100"/>
+    <item android:drawable="@drawable/popa14" android:duration="100"/>
+    <item android:drawable="@drawable/popa15" android:duration="100"/>
+    <item android:drawable="@drawable/popa16" android:duration="100"/>
+    <item android:drawable="@drawable/popa17" android:duration="100"/>
+    <item android:drawable="@drawable/popa18" android:duration="100"/>
+    <item android:drawable="@drawable/popa19" android:duration="100"/>
+    <item android:drawable="@drawable/popa20" android:duration="100"/>
+    <item android:drawable="@drawable/popa21" android:duration="100"/>
+    <item android:drawable="@drawable/popa22" android:duration="100"/>
+    <item android:drawable="@drawable/popa23" android:duration="100"/>
+    <item android:drawable="@drawable/popa24" android:duration="100"/>
+</animation-list>
